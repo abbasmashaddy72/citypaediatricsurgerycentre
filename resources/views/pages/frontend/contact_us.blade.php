@@ -12,12 +12,7 @@
             <div class="flex flex-wrap items-center -mx-4">
                 <div class="px-4 w-full lg:w-7/12 xl:w-8/12">
                     <div class="ud-contact-content-wrapper">
-                        <div class="ud-contact-title mb-12 lg:mb-[150px]">
-                            <h2 class="text-[35px] font-semibold">
-                                Love to hear from you!
-                            </h2>
-                        </div>
-                        <div class="flex flex-wrap justify-between mb-12 lg:mb-0">
+                        <div class="flex flex-wrap justify-between lg:mb-12 lg:mb-0 mt-12">
                             <div class="flex max-w-full w-[330px] mb-8">
                                 <div class="text-[32px] text-primary mr-6">
                                     <svg width="29" height="35" viewBox="0 0 29 35" class="fill-current">

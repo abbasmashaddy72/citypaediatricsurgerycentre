@@ -5,3 +5,4 @@
 @tailwind variants;
 @import "~animate.css/animate";
 @import "./custom-carousel.css";
+@import "~tobii/dist/css/tobii.min.css";

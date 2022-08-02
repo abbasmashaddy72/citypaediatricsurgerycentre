@@ -37,6 +37,7 @@
         "nouislider": "^15.5.1",
         "smooth-scrollbar": "^8.7.4",
         "swiper": "^6.8.4",
+        "tobii": "^2.0.0-alpha",
         "wowjs": "^1.1.3"
     }
 }
